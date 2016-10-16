@@ -1,0 +1,53 @@
+﻿#china-outer {
+    width: 960px;
+    height: 782px;
+    border-color: blue;
+    border-style: dashed;
+    border-width: 1px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.china {
+    width: 960px;
+    height: 782px;
+}
+
+.graticule {
+    fill: none;
+    stroke: #777;
+    stroke-width: 5px;
+}
+
+.hui {
+    fill: grey;
+}
+
+.hong {
+    fill: #FF0000;
+}
+
+.cheng {
+    fill: #FF7F00;
+}
+
+.huang {
+    fill: #FFFF00;
+}
+
+.lv {
+    fill: #00FF00;
+}
+
+.qing {
+    fill: #00FFFF;
+}
+
+.lan {
+    fill: #0000FF;
+}
+
+.zi {
+    fill: #8B00FF;
+}
